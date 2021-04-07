@@ -1,0 +1,14 @@
+{
+    "name": "DeepL翻訳機（論文仕様）",
+    "version": "1.0",
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": true
+    },
+    "description": "Deeplに投げる拡張機能- .の後に二度改行を行って見やすくしている -",
+    "manifest_version": 2,
+    "permissions": [
+        "contextMenus",
+        "tabs"
+    ]
+}
